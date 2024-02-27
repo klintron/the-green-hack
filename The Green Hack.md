@@ -364,7 +364,7 @@ Once per combat, a Warrior can sacrifice their next turn to thrust themselves be
 
 **Swashbuckling:** Any character can perform combat maneuvers (disarming, tripping, pushing) in place of a normal attack. A Thief can attack and perform a **DEX** or **CHA** based maneuver at the same time (ex: leaping from **Close** to **Nearby** after attacking, disarming an opponent, or distracting them with a taunt).
 
-**Thieves Cant:** All thieves know a secret language that they can use to speak with each other either verbally or with hand gestures. There is no written version of the language.
+**Thieves' Cant:** All thieves know a secret language that they can use to speak with each other either verbally or with hand gestures. There is no written version of the language.
 
 **Tools of the Trade:** Can pick simple locks when using Thieves Tools, no test required.
 
