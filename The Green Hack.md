@@ -114,9 +114,9 @@ Every new character starts with 3d6 x 10 coins with which to buy their equipment
 
 Characters with DEX greater than 15 should add 2 to their **AC**. Characters with DEX lower than 7 should subtract 2 from their **AC**.
 
-Note: To convert from a traditional descending **AC** value: 1. Subtract the descending **AC** value from 8. 2. Add the above value (the difference between 8 and the descending **AC** ) to 8.
+Note: To convert from a traditional descending **AC** value, subtract the descending **AC** value from 16.
 
-**Example:** \_To convert a descending armor class of 3 (plate & mail) to TGH's ascending armor class value: 8 - 3 = 5. 8 + 5 = 13.
+**Example:** \_To convert a descending armor class of 3 (plate & mail) to TGH's ascending armor class value: 16 - 3 = 13.
 
 Because attacks are based on opponent **HD** , not **AC** (See **Opponent HD** below), you shouldn't have to convert descending **AC** value often.
 
